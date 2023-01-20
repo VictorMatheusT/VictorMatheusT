@@ -9,11 +9,10 @@ print ('Olá Mundo!')
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" heigth="40" /> <img src="https://theme.zdassets.com/theme_assets/888110/9f5a5e9938e305e7ef080825213d8ef62c6202c2.png" width="40" heigth="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="40" heigth="40"/>
 
 <div>
-<a href="https:
-
-
-
-
+<a href="https://github.com/VictorMatheusT">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorMatheusT&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=VictorMatheusT&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
 
 ##  Contatos
 
