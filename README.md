@@ -1,16 +1,19 @@
 print ('Olá Mundo!')
 
-## Estudando
+<div> <img src="https://github.com/AdityaKumar28/AdityaKumar28/blob/main/animation.gif?raw=true" align="right" windth="40" height="430" /> </div>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" heigth="40" /> <img src="https://github.com/AdityaKumar28/AdityaKumar28/blob/main/animation.gif?raw=true" align="right" />
+## <img align="left" alt="CoderGuy" width="3%" src="https://www.csm.ornl.gov/~sheldon/ds/images/book_q.gif" > <p>&nbsp;Estudando</p>
 
 
-## Ferramentas
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" heigth="40" />
+
+
+## 🛠 Ferramentas
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" heigth="40" /> <img src="https://theme.zdassets.com/theme_assets/888110/9f5a5e9938e305e7ef080825213d8ef62c6202c2.png" width="40" heigth="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="40" heigth="40"/>
 
 
-##  Contatos
+## 🤝 Contatos
 
 <div>
 <a href="https://www.linkedin.com/in/matheus-victor-gomes-teixeira-silva-a46807198/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
@@ -18,8 +21,15 @@ print ('Olá Mundo!')
 <a href = "victor_matheus1@outlook.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
-<div>
-<a href="https://github.com/VictorMatheusT">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorMatheusT&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=VictorMatheusT&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div
+
+
+## ⚙️ Estatísticas GitHub
+
+<p align="left">
+<href="https://github.com/VictorMatheusT">
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=VictorMatheusT&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <align="center">
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=VictorMatheusT&layout=compact&langs_count=8&theme=algolia"/>
+  
+![Snkae animation](https://github.com/VictorMatheusT/VictorMatheusT/blob/output/github-contribution-grind snake.sgv)  
+  
