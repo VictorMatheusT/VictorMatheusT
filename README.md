@@ -27,7 +27,7 @@ print ('Olá Mundo!')
 <div>
 <p align="left">
 <href="https://github.com/VictorMatheusT">
-  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=VictorMatheusT&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/></div> <div><aling="rigth"> <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=VictorMatheusT&layout=compact&langs_count=8&theme=dark"/> </div>
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=VictorMatheusT&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/></div> <div><aling="right"> <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=VictorMatheusT&layout=compact&langs_count=8&theme=dark"/> </div>
    
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
