@@ -27,9 +27,9 @@ print ('Olá Mundo!')
 
 <p align="left">
 <href="https://github.com/VictorMatheusT">
-  <img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=VictorMatheusT&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=VictorMatheusT&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <align="center">
-  <img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=VictorMatheusT&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=VictorMatheusT&layout=compact&langs_count=8&theme=dark"/>
     
 ![Snake animation](https://github.com/VictorMatheusT/VictorMatheusT/blob/output/github-contribution-grid-snake.svg)
  
