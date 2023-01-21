@@ -30,7 +30,5 @@ print ('Olá Mundo!')
   <align="center">
   <img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=VictorMatheusT&layout=compact&langs_count=8&theme=dark"/>
    
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VictorMatheusT/VictorMatheusT/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VictorMatheusT/VictorMatheusT/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/VictorMatheusT/VictorMatheusT/output/github-contribution-grid-snake.svg">
+![snake gif](https://github.com/VictorMatheusT/VictorMatheusT/blob/output/github-contribution-grid-snake.gif)
 
