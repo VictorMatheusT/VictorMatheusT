@@ -32,5 +32,4 @@ print ('Olá Mundo!')
   <img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=VictorMatheusT&layout=compact&langs_count=8&theme=dark"/>
     
 ![Snake animation](https://github.com/VictorMatheusT/VictorMatheusT/blob/output/github-contribution-grid-snake.svg)
- 
   
