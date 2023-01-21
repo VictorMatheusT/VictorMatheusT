@@ -31,4 +31,4 @@ print ('Olá Mundo!')
   <align="center">
   <img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=VictorMatheusT&layout=compact&langs_count=8&theme=dark"/>
    
- ![snake gif](https://github.com/VictorMatheusT/VictorMatheusT/blob/output/github-contribution-grid-snake.gif)
+ ![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
